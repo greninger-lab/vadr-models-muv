@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "KX953297.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "KX953297/KX953297.vadr.protein.fa",
+  "number-of-letters": 4977,
+  "number-of-sequences": 8,
+  "last-updated": "2025-04-15T20:24:00",
+  "number-of-volumes": 1,
+  "bytes-total": 42891,
+  "bytes-to-cache": 5186,
+  "files": [
+    "KX953297.vadr.protein.fa.pdb",
+    "KX953297.vadr.protein.fa.phr",
+    "KX953297.vadr.protein.fa.pin",
+    "KX953297.vadr.protein.fa.pot",
+    "KX953297.vadr.protein.fa.psq",
+    "KX953297.vadr.protein.fa.ptf",
+    "KX953297.vadr.protein.fa.pto"
+  ]
+}

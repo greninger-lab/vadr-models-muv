@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "MH426702.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/data/muv//MH426702.vadr.protein.fa",
+  "number-of-letters": 5547,
+  "number-of-sequences": 9,
+  "last-updated": "2025-04-17T19:53:00",
+  "number-of-volumes": 1,
+  "bytes-total": 43583,
+  "bytes-to-cache": 5765,
+  "files": [
+    "MH426702.vadr.protein.fa.pdb",
+    "MH426702.vadr.protein.fa.phr",
+    "MH426702.vadr.protein.fa.pin",
+    "MH426702.vadr.protein.fa.pot",
+    "MH426702.vadr.protein.fa.psq",
+    "MH426702.vadr.protein.fa.ptf",
+    "MH426702.vadr.protein.fa.pto"
+  ]
+}

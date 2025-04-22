@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "MW819866.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "MW819866/MW819866.vadr.protein.fa",
+  "number-of-letters": 4977,
+  "number-of-sequences": 8,
+  "last-updated": "2025-04-15T21:47:00",
+  "number-of-volumes": 1,
+  "bytes-total": 42891,
+  "bytes-to-cache": 5186,
+  "files": [
+    "MW819866.vadr.protein.fa.pdb",
+    "MW819866.vadr.protein.fa.phr",
+    "MW819866.vadr.protein.fa.pin",
+    "MW819866.vadr.protein.fa.pot",
+    "MW819866.vadr.protein.fa.psq",
+    "MW819866.vadr.protein.fa.ptf",
+    "MW819866.vadr.protein.fa.pto"
+  ]
+}

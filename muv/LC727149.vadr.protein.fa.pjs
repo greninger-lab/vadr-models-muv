@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "LC727149.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "LC727149/LC727149.vadr.protein.fa",
+  "number-of-letters": 4977,
+  "number-of-sequences": 8,
+  "last-updated": "2025-04-15T21:00:00",
+  "number-of-volumes": 1,
+  "bytes-total": 42890,
+  "bytes-to-cache": 5186,
+  "files": [
+    "LC727149.vadr.protein.fa.pdb",
+    "LC727149.vadr.protein.fa.phr",
+    "LC727149.vadr.protein.fa.pin",
+    "LC727149.vadr.protein.fa.pot",
+    "LC727149.vadr.protein.fa.psq",
+    "LC727149.vadr.protein.fa.ptf",
+    "LC727149.vadr.protein.fa.pto"
+  ]
+}

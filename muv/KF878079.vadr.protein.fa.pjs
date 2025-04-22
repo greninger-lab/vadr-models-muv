@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "KF878079.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "KF878079/KF878079.vadr.protein.fa",
+  "number-of-letters": 4977,
+  "number-of-sequences": 8,
+  "last-updated": "2025-04-15T20:20:00",
+  "number-of-volumes": 1,
+  "bytes-total": 42891,
+  "bytes-to-cache": 5186,
+  "files": [
+    "KF878079.vadr.protein.fa.pdb",
+    "KF878079.vadr.protein.fa.phr",
+    "KF878079.vadr.protein.fa.pin",
+    "KF878079.vadr.protein.fa.pot",
+    "KF878079.vadr.protein.fa.psq",
+    "KF878079.vadr.protein.fa.ptf",
+    "KF878079.vadr.protein.fa.pto"
+  ]
+}

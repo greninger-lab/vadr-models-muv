@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "MK279727.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "MK279727/MK279727.vadr.protein.fa",
+  "number-of-letters": 4977,
+  "number-of-sequences": 8,
+  "last-updated": "2025-04-15T21:01:00",
+  "number-of-volumes": 1,
+  "bytes-total": 42891,
+  "bytes-to-cache": 5186,
+  "files": [
+    "MK279727.vadr.protein.fa.pdb",
+    "MK279727.vadr.protein.fa.phr",
+    "MK279727.vadr.protein.fa.pin",
+    "MK279727.vadr.protein.fa.pot",
+    "MK279727.vadr.protein.fa.psq",
+    "MK279727.vadr.protein.fa.ptf",
+    "MK279727.vadr.protein.fa.pto"
+  ]
+}
