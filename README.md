@@ -59,8 +59,8 @@ v-annotate.pl -r --mkey muv --mdir <muv-models-dir-path> <fasta-file-to-annotate
    documentation here: https://github.com/ncbi/vadr/blob/master/documentation/annotate.md
 
 ---
-## <a name="muvmodels"></a>MuV VADR model libraries
-* The VADR model libraries for MuV annotation were developed using representative sequences from 12
+## <a name="muvmodels"></a>MuV VADR model library
+* The VADR model library for MuV annotation was developed using representative sequences from 12
   genotypes currently available in the complete MuV genomes published in GenBank: MH426702 (A),
   MK279727 (B), KX953297 (C), MW819866 (D), DQ649478 (F), OR822028 (G), MN630057 (H),
   MN630058 (I), KF878079 (J), MT238690 (K), LC727149 (L), AY685921 (N).
