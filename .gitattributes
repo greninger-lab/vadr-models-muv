@@ -1,2 +1,5 @@
 muv/muv.cm filter=lfs diff=lfs merge=lfs -text
+muv/muv.cm.i1f filter=lfs diff=lfs merge=lfs -text
+muv/muv.cm.i1i filter=lfs diff=lfs merge=lfs -text
 muv/muv.cm.i1m filter=lfs diff=lfs merge=lfs -text
+muv/muv.cm.i1p filter=lfs diff=lfs merge=lfs -text
