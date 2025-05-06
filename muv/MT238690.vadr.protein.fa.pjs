@@ -6,10 +6,10 @@
   "description": "MT238690.vadr.protein.fa",
   "number-of-letters": 5148,
   "number-of-sequences": 9,
-  "last-updated": "2025-04-25T21:50:00",
+  "last-updated": "2025-05-01T09:31:00",
   "number-of-volumes": 1,
-  "bytes-total": 43178,
-  "bytes-to-cache": 5358,
+  "bytes-total": 43170,
+  "bytes-to-cache": 5350,
   "files": [
     "MT238690.vadr.protein.fa.pdb",
     "MT238690.vadr.protein.fa.phr",

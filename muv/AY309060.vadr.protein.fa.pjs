@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "AY309060.vadr.protein.fa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "muv/AY309060.vadr.protein.fa",
+  "number-of-letters": 5313,
+  "number-of-sequences": 10,
+  "last-updated": "2025-05-05T10:46:00",
+  "number-of-volumes": 1,
+  "bytes-total": 43519,
+  "bytes-to-cache": 5532,
+  "files": [
+    "AY309060.vadr.protein.fa.pdb",
+    "AY309060.vadr.protein.fa.phr",
+    "AY309060.vadr.protein.fa.pin",
+    "AY309060.vadr.protein.fa.pot",
+    "AY309060.vadr.protein.fa.psq",
+    "AY309060.vadr.protein.fa.ptf",
+    "AY309060.vadr.protein.fa.pto"
+  ]
+}
