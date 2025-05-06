@@ -45,7 +45,7 @@ $VADRSCRIPTSDIR/miniscripts/fasta-trim-terminal-ambigs.pl --minlen 50 --maxlen 1
 4. Run the `v-annotate.pl` program on an input trimmed fasta file with
    MuV sequences using the recommended command below.
 ```
-v-annotate.pl -r --mkey muv --mdir <muv-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
+v-annotate.pl -r --indefclass 0.025 --mkey muv --mdir <muv-models-dir-path> <fasta-file-to-annotate> <output-directory-to-create>
 ```
 
 5. After running the `v-annotate.pl` command in step 4, there will be a number of files
@@ -62,8 +62,8 @@ v-annotate.pl -r --mkey muv --mdir <muv-models-dir-path> <fasta-file-to-annotate
 ## <a name="muvmodels"></a>MuV VADR model library
 * The VADR model library for MuV annotation was developed using representative sequences from 12
   genotypes currently available in the complete MuV genomes published in GenBank: MH426702 (A),
-  MK279727 (B), KX953297 (C), MW819866 (D), DQ649478 (F), OR822028 (G), MN630057 (H),
-  MN630058 (I), KF878079 (J), MT238690 (K), LC727149 (L), AY685921 (N).
+  MK279727 (B), KX953297 (C), MW819866 (D), DQ649478 (F), OR822028 (G), KY969483 (H),
+  AY309060 (I), KF878079 (J), MT238690 (K), KF878081 (L), AY685921 (N).
 ---
 
 ## <a name="docs"> Additional VADR documentation
