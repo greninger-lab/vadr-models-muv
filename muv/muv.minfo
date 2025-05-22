@@ -160,7 +160,7 @@ FEATURE KF878079 type:"gene" coords:"6603..8351:+" parent_idx_str:"GBNULL" gene:
 FEATURE KF878079 type:"CDS" coords:"6603..8351:+" parent_idx_str:"GBNULL" gene:"HN" product:"hemagglutinin-neuraminidase"
 FEATURE KF878079 type:"gene" coords:"8427..15212:+" parent_idx_str:"GBNULL" gene:"L"
 FEATURE KF878079 type:"CDS" coords:"8427..15212:+" parent_idx_str:"GBNULL" gene:"L" product:"RNA-dependent RNA polymerase"
-MODEL MT238690 blastdb:"MT238690.vadr.protein.fa" cmfile:"MT238690.vadr.cm" group:"K" length:"15363"
+MODEL MT238690 blastdb:"MT238690.vadr.protein.fa" cmfile:"MT238690.vadr.cm" group:"K" length:"15372"
 FEATURE MT238690 type:"gene" coords:"135..1784:+" parent_idx_str:"GBNULL" gene:"N"
 FEATURE MT238690 type:"CDS" coords:"135..1784:+" parent_idx_str:"GBNULL" gene:"N" product:"nucleocapsid protein"
 FEATURE MT238690 type:"gene" coords:"1968..3141:+" parent_idx_str:"GBNULL" gene:"P"
